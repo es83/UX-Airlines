@@ -1,0 +1,21 @@
+body {
+  font-family: "Open sans", sans-serif;
+}
+
+h2, h3 {
+  font-family: "Courgette";
+}
+
+.jumbotron {
+  background-color: #32c5ff;
+}
+nav {
+  background-color: #0D384A;
+}
+.jumbotron {
+  padding: 30px;
+}
+
+.container-hero {
+  border: 2px solid blue;
+}
