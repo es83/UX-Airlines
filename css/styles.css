@@ -10,7 +10,7 @@ h2, h3 {
   background-color: #32c5ff;
 }
 nav {
-  background-color: #0D384A;
+  background-image: linear-gradient(#0D384A, #32c5ff);
 }
 .jumbotron {
   padding: 30px;
