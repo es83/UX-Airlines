@@ -19,3 +19,8 @@ nav {
 .container-hero {
   border: 2px solid blue;
 }
+
+body {
+  background-image: linear-gradient(to top, #0d384a, #32c5ff);
+
+}
